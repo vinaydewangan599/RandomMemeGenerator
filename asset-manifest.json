@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RandomMemeGenerator/static/css/main.adface67.css",
+    "main.js": "/RandomMemeGenerator/static/js/main.262c1e6f.js",
+    "index.html": "/RandomMemeGenerator/index.html",
+    "main.adface67.css.map": "/RandomMemeGenerator/static/css/main.adface67.css.map",
+    "main.262c1e6f.js.map": "/RandomMemeGenerator/static/js/main.262c1e6f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.adface67.css",
+    "static/js/main.262c1e6f.js"
+  ]
+}
